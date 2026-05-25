@@ -746,7 +746,7 @@ const Sidebar = ({ view, setView, count }) => (
       <div className="text-[10px] text-zinc-600 uppercase tracking-widest mb-1">Engine</div>
       <div className="flex items-center gap-2">
         <div className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse" />
-        <div className="text-xs text-zinc-400">Claude Sonnet 4</div>
+        <div className="text-xs text-zinc-400">Baiman</div>
       </div>
       <div className="mt-1 text-[10px] text-zinc-600">Rule + RAG + LLM fusion</div>
     </div>
